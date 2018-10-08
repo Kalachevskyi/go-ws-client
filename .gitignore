@@ -1,0 +1,9 @@
+bin
+dist
+pkg
+vendor
+coverage
+
+.env
+.DS_Store
+.idea
